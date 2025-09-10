@@ -1,0 +1,16 @@
+Adicionar tipos de estudos no Sistema
+* O Sistema deve cadastrar um usuario que mais tarde vai ser um link para ser o autor de um indice
+* O Sistema vai possibilitar o cadastro de livros para serem adicionados tanto como: Referencia, referencia bibliografica
+* O Sistema deve cadastrar cadastrar indices de estudos
+	* O cadastro deve ter os seguintes campos
+		id - NOT NULL
+		Author - NOT NULL
+		Title - NOT NULL
+		Page Number - NULL
+		Comment Number - NULL
+		Resume - NULL
+		Literature (Obra literaria - Book Title) - NOT NULL
+		Comment - NULL
+		Reference - NULL
+		Comment - NULL
+		Bibliographic reference - NULL
